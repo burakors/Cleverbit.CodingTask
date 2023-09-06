@@ -1,0 +1,12 @@
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\bin\Debug\net6.0\Cleverbit.CodingTask.Data.deps.json
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\bin\Debug\net6.0\Cleverbit.CodingTask.Data.dll
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\bin\Debug\net6.0\Cleverbit.CodingTask.Data.pdb
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.csproj.AssemblyReference.cache
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.AssemblyInfoInputs.cache
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.AssemblyInfo.cs
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.csproj.CoreCompileInputs.cache
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.dll
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\refint\Cleverbit.CodingTask.Data.dll
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\Cleverbit.CodingTask.Data.pdb
+C:\Workspaces\JobApplications\Cleverbit\Cleverbit.CodingTask.Data\obj\Debug\net6.0\ref\Cleverbit.CodingTask.Data.dll

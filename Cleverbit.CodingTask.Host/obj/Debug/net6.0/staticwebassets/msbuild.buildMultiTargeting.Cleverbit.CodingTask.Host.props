@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cleverbit.CodingTask.Host.props" />
+</Project>

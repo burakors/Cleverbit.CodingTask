@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "46sKAo0mKjvRJDwO8nyp9uuhn7r/uIWbiXM9QuY3O0A=",
+  "Source": "Cleverbit.CodingTask.Host",
+  "BasePath": "_content/Cleverbit.CodingTask.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

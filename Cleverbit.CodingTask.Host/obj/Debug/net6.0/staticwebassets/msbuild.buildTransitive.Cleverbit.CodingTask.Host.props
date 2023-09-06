@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cleverbit.CodingTask.Host.props" />
+</Project>
